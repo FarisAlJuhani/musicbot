@@ -1,6 +1,0 @@
-﻿token=NTU5NTY1NDgwOTQ4NTMxMjAx.D3nPng.3BEU0T8Us15hU7rSJ8HzzBIDMpk
-owner=225559275127177216 
-prefix= Fa
-game= Fuck Off All Of You
-stayinchannel=true
-songinstatus=false 
