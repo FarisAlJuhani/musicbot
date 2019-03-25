@@ -1,6 +1,6 @@
-﻿token=التوكن 
-owner=ادي بتعك 
-prefix= t
-game= !thelp
+﻿token=NTU5NTUxMDU4OTM0ODkwNTA2.D3nDHg.yQm8pXBcCU5tJk9LGFnBdt8aLug 
+owner=225559275127177216 
+prefix= Fa
+game= Fuck Off All Of You
 stayinchannel=true
 songinstatus=true 
